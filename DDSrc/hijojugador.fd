@@ -1,0 +1,5 @@
+#REPLACE FILE4 hijojugador
+#REPLACE hijojugador.File_Number |CI4
+#REPLACE hijojugador.ID |FN4,1
+#REPLACE hijojugador.Name |FS4,2
+#REPLACE hijojugador.jugadorID |FN4,3

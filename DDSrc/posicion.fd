@@ -1,0 +1,4 @@
+#REPLACE FILE9 posicion
+#REPLACE posicion.File_Number |CI9
+#REPLACE posicion.ID |FN9,1
+#REPLACE posicion.Nombre |FS9,2

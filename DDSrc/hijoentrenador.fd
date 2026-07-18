@@ -1,0 +1,5 @@
+#REPLACE FILE3 hijoentrenador
+#REPLACE hijoentrenador.File_Number |CI3
+#REPLACE hijoentrenador.ID |FN3,1
+#REPLACE hijoentrenador.Name |FS3,2
+#REPLACE hijoentrenador.entrenadorID |FN3,3
