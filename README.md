@@ -1,7 +1,15 @@
 # Miscelánea de Proyectos
 
-Repositorio que contiene pequeños ejercicios y herramientas desarrolladas durante mi etapa de aprendizaje.
+📁 Repositorio que contiene pequeños ejercicios y herramientas desarrolladas durante mi etapa de aprendizaje.
 
-* [patron bloque-moodle](./auth_pattern_block/): Patrón de desbloqueo para Moodle.
-* [themes-dataflex](Themes): Personalización de apariencia web futbol.
-* [futbol-web](futbolweb): Web de futbol sencilla, realizada con dataflex.
+* **Login Moodle**
+  * **Descripción:** Patrón de desbloqueo táctico diseñado para autenticarse y acceder a la plataforma educativa o a cursos específicos de manera visual.
+  * **Tecnologías:** Php.
+
+* **Theme DataFlex**
+  * **Descripción:** Personalización de apariencia y capa de estilos visuales para adaptar la interfaz por defecto de DataFlex a un diseño propio.
+  * **Tecnologías:** DataFlex.
+
+* **Web Fútbol (DataFlex)**
+  * **Descripción:** Aplicación web sencilla basada en navegación por bloques (boxes) conectada a una base de datos relacional para gestionar entidades como equipos, ligas, jugadores y entrenadores.
+  * **Tecnologías:** DataFlex, MySQL Workbench.
